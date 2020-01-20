@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const mongoURI = "mongodb+srv://test:test@database-yc8w3.mongodb.net/Users?retryWrites=true&w=majority";
+const mongoURI = "censored";
 const connectionOptions ={
    useNewUrlParser:true,
    useUnifiedTopology:true
